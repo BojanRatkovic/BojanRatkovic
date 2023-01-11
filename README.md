@@ -6,7 +6,7 @@
 
 Innovative frontend engineer with more than 6 years of maintaining and building highly scalable web and mobile applications.<br>I often act as a bridge between design and technology.<br><br>
 Fan of component driven development and hugely invested in writing modular and flexible <strong>CSS</strong> and <strong>JS/TS</strong>.<br>
-I used pretty much all modern <strong>JS</strong> frameworks and libraries, but kinda stuck with <strong>ReactJS/NextJS</strong> and <strong>ReactJS/NextJS</strong>.<br><br>
+I used pretty much all modern <strong>JS</strong> frameworks and libraries, but kinda stuck with <strong>ReactJS/NextJS</strong> and <strong>React Native</strong>.<br><br>
 Native iOS development (<strong>Swift</strong>) has lately caught my interests, so I committed some time to study it.<br>Perhaps I would take a shot at developing <strong>iOS</strong> apps in the near future or just boost my <strong>React Native</strong> skills with developing some native modules. Who knows? 👀<br><br>
 Feel free to reach out, I’m always open to chat. 👋 🍻
 
