@@ -4,7 +4,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/kibouzemljicuda?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fkibouzemljicuda&screen_name=kibouzemljicuda)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kibouzemljicuda/)
 
-Innovative frontend engineer with more than 8 years of maintaining and building highly scalable web and mobile applications.<br>I often act as a bridge between design and technology.<br><br>
+Innovative frontend engineer with more than 10 years of maintaining and building highly scalable web and mobile applications.<br>I often act as a bridge between design and technology.<br><br>
 Fan of component driven development and hugely invested in writing modular and flexible <strong>CSS</strong> and <strong>JS/TS</strong>.<br>
 I used pretty much all modern <strong>JS</strong> frameworks and libraries, but kinda stuck with <strong>ReactJS/NextJS</strong>, <strong>EmberJS</strong> and <strong>React Native</strong>.<br>
 
